@@ -1,4 +1,4 @@
-agent_status.json
-delegation_log.md
+/agent_status.json
+/delegation_log.md
 __pycache__/
 *.pyc
